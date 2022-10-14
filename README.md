@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **React , javaScript**
+- 💬 Ask me about **React , javaScript , DevOps**
 
 - 📫 How to reach me **tarangverma004@gmail.com**
 
